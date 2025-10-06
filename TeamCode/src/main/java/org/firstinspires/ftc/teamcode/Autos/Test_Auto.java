@@ -148,7 +148,7 @@ public  class Test_Auto extends LinearOpMode { // Ramtonomous - property of benj
         // Moving Toward basket (beginning of drop-in replacement)
 
         /*Gabe's Tooltips
-        -Distance is like in Physics where it is negative direction so it goes backwards...    I feel the sudden urge to jump off a bridge*/
+        -Distance is like in Physics where it is negative direction so it goes backwards... */
         driveForward(1,98.5,10);
         encoderStrafe(-1,51.25,10);
 
@@ -356,3 +356,4 @@ public  class Test_Auto extends LinearOpMode { // Ramtonomous - property of benj
         }
     }
 }
+
